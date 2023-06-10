@@ -2,7 +2,10 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif">
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anna-agnieszka-wojtowicz/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn badge"></a>
+  </div>
 </div>
 
 ### Hi there 👋
