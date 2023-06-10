@@ -1,14 +1,16 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="a cat touching a keyboard" width="200" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/anna-agnieszka-wojtowicz/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn badge"></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn badge" /></a>
   </div>
+  
+  ### Hi there 👋
 </div>
 
-### Hi there 👋
+
 
 <!--
 **AnnaAWojtowicz/AnnaAWojtowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
