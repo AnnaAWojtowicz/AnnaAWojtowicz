@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="a cat touching a keyboard" width="200" />
+  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" alt="a cat touching a keyboard" width="200" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/anna-agnieszka-wojtowicz/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn badge" /></a>
@@ -10,18 +10,23 @@
   ### Hi there 👋
 </div>
 
+---
 
-
-<!--
-**AnnaAWojtowicz/AnnaAWojtowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+### 👩‍💻 About Me:
+- 💪 I'm a FED-student
+- 🔭 I’m currently working on a website with recipes by ingrendients generator 🍜
 - 🌱 I’m currently learning JavaScript and React
-
-- 💬 Ask me about ... if I want to work with you!
-- 📫 How to reach me: ...
+- 💬 Ask me about ... if I want to work with you! 
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anna-agnieszka-wojtowicz/)
 
 - ⚡ Fun fact: I'm older than Boulder Dash!
--->
+
+---
+
+### 🛠️ Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="java script" alt="java script" width="40" height="40" />&nbsp;
+</div>
