@@ -30,3 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="java script" alt="java script" width="40" height="40" />&nbsp;
 </div>
+
+---
+
+### 🔥 My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaAWojtowicz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
