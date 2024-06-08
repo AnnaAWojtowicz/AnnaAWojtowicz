@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="java script" alt="java script" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40" />&nbsp;
 </div>
