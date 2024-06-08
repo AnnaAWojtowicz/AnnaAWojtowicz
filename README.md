@@ -15,7 +15,7 @@
 ### 👩‍💻 About Me:
 - 💪 I'm a FED-student
 - 🔭 I’m currently working on a website with recipes by ingrendients generator 🍜
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about ... if I want to work with you! 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anna-agnieszka-wojtowicz/)
 
@@ -29,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="java script" alt="java script" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="vscode" alt="bootstrap" width="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="vscode" alt="react" width="40" height="40" />&nbsp;
 </div>
 
 ---
