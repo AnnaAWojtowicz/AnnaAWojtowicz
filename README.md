@@ -1,7 +1,6 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" alt="a cat touching a keyboard" width="200" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/anna-agnieszka-wojtowicz/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn badge" /></a>
@@ -13,9 +12,9 @@
 ---
 
 ### 👩‍💻 About Me:
-- 💪 I'm a FED-student
-- 🔭 I’m currently working on a website with recipes by ingrendients generator 🍜
-- 🌱 I’m currently learning TypeScript
+- 💪 I'm a newly graduated Front-End Developer
+- 🔭 I’m currently working on a website featuring a collection of photos taken by my partner
+- 🌱 I’m currently improving my React-skills 
 - 💬 Ask me about ... if I want to work with you! 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anna-agnieszka-wojtowicz/)
 
