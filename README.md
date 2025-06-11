@@ -12,8 +12,8 @@
 ---
 
 ### 👩‍💻 About Me:
-- 💪 I'm a newly graduated Front-End Developer
-- 🔭 I’m currently working on a website featuring a collection of photos taken by my partner...and an app that will help you to learn history of art
+- 💪 I'm a graduated Front-End Developer
+- 🔭 I’m currently working on a website featuring a collection of photos taken by my partner...and a streaming app
 - 🌱 I’m currently improving my React-skills 
 - 💬 Ask me about ... if I want to work with you! 
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anna-agnieszka-wojtowicz/)
